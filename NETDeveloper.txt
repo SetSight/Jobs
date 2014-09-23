@@ -1,0 +1,48 @@
+﻿logo_setsight_72ppi.png 
+
+________________
+
+
+
+
+
+
+Software Developer (.NET) - Minneapolis
+
+
+SetSight works in the retail industry by helping suppliers manage and understand their data in order to deliver actionable insights through our SaaS offerings. From a technical perspective we're all the fun stuff: Big Data, Cloud, & API's with a focused and fun team.
+
+
+SetSight is looking for a talented .NET developer with experience in modern web development. This member of the SetSight team will assist in the creation of new applications as well as maintain and support legacy applications. This member will be expected to code in C# leveraging MVC, WebAPI, and WebForms complete with HTML, CSS, and JavaScript. There is also data management expectations leveraging SQL and NoSQL technologies. You’ll be joining a small and growing development team that is focused on company growth through the development of new products and platforms. 
+
+
+Contact careers at setsight.com with coverletter and resume.
+
+
+Requirements
+* Team player who looks forward to working and sharing knowledge with others
+* Creative problem solver who considers business case when solving technical issues
+* An excellent communicator with teammates
+* Someone who is always looking for continuous improvement
+* Able to follow and improve development processes and procedures
+* Proficient in C# and object-oriented design principles
+* Knowledge of .NET 4.5 and the Microsoft stack
+* Knowledge of ASP.NET MVC and/or WebAPI
+* Solid understanding of a SQL platform (MSSQL/MySQL/PostgreSQL)
+* Solid foundation of Javascript and a major Javascript framework 
+
+
+Educational Requirements
+* Bachelor’s Degree in Computer Science or 3 years web development experience
+
+
+Nice to Have’s
+* Experience with data ingestion and data management
+* Experience with TDD, BDD, CI, DI, Moq, APIs, git, SVN, etc
+* Experience with cloud-based hosting
+* Experience with Linux
+* Experience with NoSQL
+* Experience with VB.NET, PHP, Ruby, Java, Objective-C or any other major language
+
+
+Confidential - SetSight Inc - 45 Seventh Street South Suite 2222, Minneapolis, MN 55402
